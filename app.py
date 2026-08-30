@@ -10,8 +10,8 @@ from linebot.exceptions import InvalidSignatureError
 from linebot.models import MessageEvent, TextMessage, TextSendMessage
 
 # --- 1. LINE 凭证设定 ---
-YOUR_CHANNEL_ACCESS_TOKEN = "jVPQmBqX+1AgqwC6jPlfFaKwZltWSPNlHrdwo8KXw2krfWFuq8KLaOeaWQfxGtrgQ/WI5KazdDSKhQQTBV4cBeA42WGjGkEMFf3tylBOpNinuzIBfRjgWUnIIWcWeERVwkWFfQ/cw5RwgvFn+VW+0AdB04t89/1O/w1cDnyilFU="
-YOUR_CHANNEL_SECRET = "72c1dd7da164b7d96ae69d2cc0965f66"
+YOUR_CHANNEL_ACCESS_TOKEN = "41Ttrh6kR+4bOSbjIzQCbz0OAmjMnkp+5L0yeFbusiWHqee79jwaW+n5IT3hkrB+yXUday/pcc6N9xqSUnTHiBxit9TD6GkF6aFnNjvsciIxwmtTlV74gGbAqMFeqUZTGM4KsLhAEIdoszUa6gpCNAdB04t89/1O/w1cDnyilFU="
+YOUR_CHANNEL_SECRET = "4c6e1abd743d80750ae6d52ca6a98e6a"
 # ---------------------------------
 
 app = Flask(__name__)
